@@ -1,0 +1,4 @@
+postgresql://basedatos_boca_user:81136xQMb98XX3MFfYeHKw13jBZrPvgz@dpg-d3r9je6uk2gs73cbvrf0-a/basedatos_boca
+
+Mercado Pago
+01a344a454db2c869e6b7b6535f64c27dda431a1c5011977065c11a852a4ae39
